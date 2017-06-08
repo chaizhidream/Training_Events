@@ -1,5 +1,5 @@
-#oracle»ù´¡ÑµÁ·Ìâ
+# oracleåŸºç¡€è®­ç»ƒé¢˜
 
-Õâ¼¸Æª»ù´¡Á·Ï°¾ù»ùÓÚ  *emp.sql*  Óë *dept.sql* ÕâÁ½ÕÅ±í¡£
-´´½¨ÕâÁ½ÕÅ±íµÄ½Å±¾ÎÄ¼þÊÇ*emp_dept.sql*
-´ð°¸ÔÚ*.sql*ÎÄ¼þÖÐ
+è¿™å‡ ç¯‡åŸºç¡€ç»ƒä¹ å‡åŸºäºŽ  *emp.sql*  ä¸Ž *dept.sql* è¿™ä¸¤å¼ è¡¨ã€‚
+åˆ›å»ºè¿™ä¸¤å¼ è¡¨çš„è„šæœ¬æ–‡ä»¶æ˜¯*emp_dept.sql*
+ç­”æ¡ˆåœ¨*.sql*æ–‡ä»¶ä¸­
