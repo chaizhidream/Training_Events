@@ -1,10 +1,3 @@
----
-title: java_base01
-date: 2017-06-14 11:28:34
-categories: java
-tags: java_base
-keywords:
----
 
 1. 如果 DOS 命令输入：java>HelloJava 出现以下结果：Bad command or file name 可能是什么原因？（知识点：Java 开发环境配置）   
  答：&#8195;命令或文件名错，路径出错。（错误的命令或文件名） 输入的命令不存在，或者不在指定的路径中。 确保键入了正确的命令、在正确的位置留出了空格和使用了正确的路径名。
@@ -12,7 +5,7 @@ keywords:
 2. 如果上题中的命令出现以下结果： Exception in thread “main” java.lang.NoClass DefFoundError: HelloJava 可能是什么原因？（知识点：Java 开发环境配置）  
   答：&#8195;类名要和JAVA文件同名；是否window自动隐藏了文件后缀名，不要隐藏后缀名，把文件后缀改为.JAVA；是否import 你需要的包名；JAVA的环境变量是否设置正确。
 
-3. 在 HelloJava.class 所在的路径下，输入命令：java HelloJava.class 看看会出现什么结果，为什么？（知识点：Java 程序运行）
+3. 在 HelloJava.class 所在的路径下，输入命令：java HelloJava.class 看看会出现什么结果，为什么？
 ![](http://images2015.cnblogs.com/blog/1009615/201609/1009615-20160911122518268-312524228.png)
 
 4. Java 虚拟机是实实在在的机器吗？（知识点：Java 虚拟机）

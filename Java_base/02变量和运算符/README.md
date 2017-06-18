@@ -1,10 +1,3 @@
----
-title: java_base02
-date: 2017-06-14 11:44:07
-categories: java
-tags: java_base
-keywords:
----
 
 ## 必做题
 1. 下列哪些变量名是合法的？Ab?1, @abc , lname, _int, $25, private, ab*5, #abc 
