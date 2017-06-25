@@ -21,7 +21,7 @@ public class number3 {
 
 	}
 
-	// ¼ì²âÊäÈëµÄ×Ö·û´®ÊÇ·ñ¶¼ÊÇÕûÊı
+	// æ£€æµ‹è¾“å…¥çš„å­—ç¬¦ä¸²æ˜¯å¦éƒ½æ˜¯æ•´æ•°
 	public static boolean check(String s) {
 		for (int i = 0; i < s.length(); i++) {
 			if (!Character.isDigit(s.charAt(i))) {

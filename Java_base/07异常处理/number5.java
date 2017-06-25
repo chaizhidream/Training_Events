@@ -1,6 +1,6 @@
-/*5£®±àĞ´Ó¦ÓÃ³ÌĞò£¬´ÓÃüÁîĞĞ´«ÈëÁ½¸öÕûĞÍÊı×÷Îª³ıÊıºÍ±»³ıÊı¡£ÒªÇó³ÌĞòÖĞ²¶»ñ
-NumberFormatException Òì³£ºÍ ArithmeticException Òì³£ÔÚÃüÁîĞĞÊäÈë²»Í¬µÄ²ÎÊıÊ±ÄÜÊä
-³öÈçÏÂ¸÷ÖÖ½á¹û£º
+/*5ï¼ç¼–å†™åº”ç”¨ç¨‹åºï¼Œä»å‘½ä»¤è¡Œä¼ å…¥ä¸¤ä¸ªæ•´å‹æ•°ä½œä¸ºé™¤æ•°å’Œè¢«é™¤æ•°ã€‚è¦æ±‚ç¨‹åºä¸­æ•è·
+NumberFormatException å¼‚å¸¸å’Œ ArithmeticException å¼‚å¸¸åœ¨å‘½ä»¤è¡Œè¾“å…¥ä¸åŒçš„å‚æ•°æ—¶èƒ½è¾“
+å‡ºå¦‚ä¸‹å„ç§ç»“æœï¼š
 */
 public class number5 {
 	public static void main(String args[]) throws NumberFormatException, ArithmeticException {
@@ -25,7 +25,7 @@ public class number5 {
 
 	}
 
-	// ¼ì²âÊäÈëµÄ×Ö·û´®ÊÇ·ñ¶¼ÊÇÕûÊı
+	// æ£€æµ‹è¾“å…¥çš„å­—ç¬¦ä¸²æ˜¯å¦éƒ½æ˜¯æ•´æ•°
 	public static boolean check(String s) {
 		for (int i = 0; i < s.length(); i++) {
 			if (!Character.isDigit(s.charAt(i))) {

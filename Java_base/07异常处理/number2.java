@@ -6,7 +6,7 @@ public class number2 {
 		}
 		
 		if (s1.equals(s2)) {
-			System.out.println("Á½ÕßÏàµÈ");
+			System.out.println("ä¸¤è€…ç›¸ç­‰");
 		}
 	}
 		
@@ -22,7 +22,7 @@ public class number2 {
 			e.printStackTrace();
 		}
 		finally {
-			System.out.println("±È½Ï½áÊø");
+			System.out.println("æ¯”è¾ƒç»“æŸ");
 			
 		}
 	}

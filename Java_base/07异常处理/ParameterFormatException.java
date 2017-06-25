@@ -4,7 +4,7 @@ public class ParameterFormatException extends Exception {
 	private static final long serialVersionUID = 1L;
 
 	ParameterFormatException() {
-		super("²ÎÊı¸ñÊ½Òì³££¡");
+		super("å‚æ•°æ ¼å¼å¼‚å¸¸ï¼");
 	}
 
 	public String toString() {

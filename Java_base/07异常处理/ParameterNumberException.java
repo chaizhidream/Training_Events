@@ -3,7 +3,7 @@ class ParameterNumberException extends Exception {
 	private static final long serialVersionUID = 1L;
 
 	ParameterNumberException() {
-		super("²ÎÊı¸öÊıÒì³££¡");
+		super("å‚æ•°ä¸ªæ•°å¼‚å¸¸ï¼");
 	}
 
 	public String toString() {
