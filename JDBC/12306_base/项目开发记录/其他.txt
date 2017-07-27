@@ -1,0 +1,12 @@
+使用maven进行管理
+使用Junit进行单元测试
+
+
+sql里面操作后要点击提交，不然eclipse里面查询不到
+
+oracle  关键字冲突 
+password  RULE  CONTENT
+结果集rs的输出
+
+
+scanner 流只能打开一个

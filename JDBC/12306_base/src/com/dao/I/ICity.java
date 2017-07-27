@@ -1,0 +1,21 @@
+package com.dao.I;
+
+import java.sql.SQLException;
+import java.util.List;
+
+import com.model.City;
+
+/**
+ * 城市表操作接口
+ * @author 柴智
+ *
+ */
+public interface ICity {
+	/**
+	 * 根据省份标识获取所有城市信息列表
+	 * @param proID
+	 * @return
+	 * @throws SQLException
+	 */
+	List<City> getCityListByProID(String proID) throws SQLException;
+}
